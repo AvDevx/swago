@@ -5,10 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
-  "keywords": [],
-  "author": "",
+  "bin": "./index.js",
+
+  "keywords": ["AWS", "EC2", "Script", "Golang", "go", "AWS deployment", "certbot", "ngnix"],
+  "author": "AvDevx",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
