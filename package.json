@@ -1,7 +1,7 @@
 {
-  "name": "go-aws-script-generator",
-  "version": "1.0.0",
-  "description": "",
+  "name": "swago",
+  "version": "0.1.1",
+  "description": "Deployment script generator for Golang projects hosted on AWS EC2.",
   "main": "index.js",
   "type": "module",
   "scripts": {
